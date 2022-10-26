@@ -34,14 +34,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          # echo Is Nodejs installed?
-          # node -v
-          # echo
-          # echo Is npm installed?
-          # npm -v
-          # echo
-          # echo Is git installed?
-          # git -v
           npm i
           npm test
           
