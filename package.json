@@ -1,0 +1,23 @@
+{
+  "name": "learn-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardarz/learn-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sardarz/learn-github-actions/issues"
+  },
+  "homepage": "https://github.com/sardarz/learn-github-actions#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
