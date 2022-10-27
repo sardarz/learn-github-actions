@@ -36,6 +36,9 @@ jobs:
         env: 
           AUTH: ${{secrets.AUTH}}
         run: npm run github
+
+      - name: Check is git working
+        run: git status
           
           
           
