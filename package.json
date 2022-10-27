@@ -21,6 +21,5 @@
     "https": "^1.0.0",
     "jest": "^29.2.2",
     "node-fetch": "^3.2.10"
-  },
-  "type": "module"
+  }
 }
