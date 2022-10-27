@@ -29,8 +29,8 @@ jobs:
           node-version: '16.16.0'
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo from release tag push
+      - name: Show github info
+        run: npm run github
 
           
           
