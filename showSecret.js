@@ -1,1 +1,1 @@
-console.log(process.AUTH)
+console.log(process.env)
