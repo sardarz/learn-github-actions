@@ -38,7 +38,7 @@ jobs:
         run: |
           npm ci
           npm test
-          echo ${{secrets.AUTH}}
+          npm run showSecret
           
           
           
