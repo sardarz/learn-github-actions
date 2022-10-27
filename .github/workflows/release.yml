@@ -29,8 +29,7 @@ jobs:
           node-version: '16.16.0'
 
       # Runs a single command using the runners shell
-      - name: Show github info
-        run: npm run github
+
 
           
           
