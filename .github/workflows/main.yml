@@ -36,7 +36,7 @@ jobs:
         run: |
           npm ci
           npm test
-          {{secrets.AUTH}}
+          echo ${{secrets.AUTH}}
           
           
           
